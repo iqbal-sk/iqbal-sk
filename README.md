@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iqbal-sk
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning mL production pipeline
+- 🌱 I’m currently learning ML production pipeline
 - 📫 How to reach me mahammadiqbal684@gmail.com
 
 <!---
